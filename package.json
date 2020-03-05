@@ -1,0 +1,6 @@
+{
+	"name": "single-page-nav",
+	"version": "1.2.1",
+	"description": "jQuery plugin that provides smooth scrolling and advanced navigation for single page websites.",
+	"repository": "https://github.com/querycz/single-page-nav"
+}
